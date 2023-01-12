@@ -1,4 +1,3 @@
-# Jefferson Andrade
 ## Eae 😎, seja bem-vindo ao meu Github
 
 - Atualmente estou **procurando emprego** na área de desenvolvimento de software
