@@ -1,4 +1,11 @@
-# Eae, meu nome é Jefferson Andrade
+# Jefferson Andrade
+## Eae 😎, seja bem-vindo ao meu Github
+
+- Atualmente estou **procurando emprego** na área de desenvolvimento de software
+- Estou estudando **Spring** (FrameWork Java)
+- Minha principal área de interesse e especialidade é em **back-end** 
+- Minhas principais linguagens de programação são **Python e Java**
+
 
 <!--
 **jeffsdac/jeffsdac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
