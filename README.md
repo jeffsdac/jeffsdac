@@ -1,7 +1,7 @@
 ## Eae 😎, seja bem-vindo ao meu Github
 
 - Atualmente estou **trabalhando** como estagiario na área de desenvolvimento de sites, com PHP e Wordpress
-- Estou estudando ADS na **FIAP**
+- Estou cursando ADS na **FIAP** (3°Semestre)
 - Minha principal área de interesse é em **back-end** 
 - Minhas principais linguagens de programação são **Python e Java**
 
