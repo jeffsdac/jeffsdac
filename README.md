@@ -1,8 +1,8 @@
 ## Eae 😎, seja bem-vindo ao meu Github
 
-- Atualmente estou **procurando emprego** na área de desenvolvimento de software
-- Estou estudando **Spring** (FrameWork Java)
-- Minha principal área de interesse e especialidade é em **back-end** 
+- Atualmente estou **trabalhando** como estagiario na área de desenvolvimento de sites, com PHP e Wordpress
+- Estou estudando ADS na **FIAP**
+- Minha principal área de interesse é em **back-end** 
 - Minhas principais linguagens de programação são **Python e Java**
 
 
