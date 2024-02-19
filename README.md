@@ -5,6 +5,9 @@
 - Minha principal área de interesse é em **back-end** 
 - Minhas principais linguagens de programação são **Python e Java**
 
+## Meus projetos:
+- [Clinica iDENTEdade](https://github.com/jeffsdac/identidade): Um projeto acadêmico desenvolvido por mim mais uma colega de turma, esse projeto visava a criação de uma clínica dentária, com uma API feita em SpringBoot e também
+- [API SpaceCars](https://github.com/KamillaLima/Global): API a qual construi com uma colega de classe em um dos desafios de nossa faculdade, fomos responsáveis por fazer uma API focada em mecânicos
 
 <!--
 **jeffsdac/jeffsdac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
