@@ -12,6 +12,7 @@
 
 ## Projetos de treino
 - [Projeto EMS](https://github.com/jeffsdac/ems-backend): Um projeto simples, focado na criação de um sistema de cadastro de empregados
+- [Projeto EMS-Front](https://github.com/jeffsdac/ems-frontend): Um projeto simples, focado na criação de um sistema de cadastro de empregados, front end da aplicação
 
 ULTIMA ATT: a ultima vez que esse perfil foi atualizado foi em: 05/03/2024
 <!--
