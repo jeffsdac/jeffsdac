@@ -14,7 +14,6 @@
 - [Projeto EMS](https://github.com/jeffsdac/ems-backend): Um projeto simples, focado na criação de um sistema de cadastro de empregados
 - [Projeto EMS-Front](https://github.com/jeffsdac/ems-frontend): Um projeto simples, focado na criação de um sistema de cadastro de empregados, front end da aplicação
 
-ULTIMA ATT: a ultima vez que esse perfil foi atualizado foi em: 18/03/2024
 <!--
 **jeffsdac/jeffsdac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
