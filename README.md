@@ -5,6 +5,9 @@
 - Minha principal área de interesse é em **back-end** 
 - Minhas principais linguagens de programação são **Python e Java**
 
+## Trabalhando atualmente
+- Atualmente estou trabalhando em um projeto pessoal, uma sistema para uma pizzaria 
+
 ## Meus projetos:
 - [Clinica iDENTEdade](https://github.com/jeffsdac/identidade): Um projeto que visava a criação de um sistema de consultas para uma clínica dentária, feito por uma dupla onde minha responsabilidade foi ficar com o backend da aplicação
 - [API SpaceCars](https://github.com/KamillaLima/Global): API a qual construi com uma colega de classe em um dos desafios de nossa faculdade, fomos responsáveis por fazer uma API focada em mecânicos, coisas como criar consultas, registrar clientes e carros
