@@ -6,7 +6,9 @@
 - Minhas principais linguagens de programação são **Python e Java**
 
 ## Trabalhando atualmente
-- Atualmente estou trabalhando em um projeto pessoal, uma sistema para uma pizzaria 
+- Atualmente estou trabalhando em um projeto pessoal, a JeffPizzas, quer dar uma olhada?
+- [FrontEnd](https://github.com/jeffsdac/pizzariaJeff)
+- [BackEnd](https://github.com/jeffsdac/jeffPizzasBackend)
 
 ## Meus projetos:
 - [Clinica iDENTEdade](https://github.com/jeffsdac/identidade): Um projeto que visava a criação de um sistema de consultas para uma clínica dentária, feito por uma dupla onde minha responsabilidade foi ficar com o backend da aplicação
