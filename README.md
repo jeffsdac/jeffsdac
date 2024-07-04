@@ -1,4 +1,5 @@
 Backend dev
+Alfabetizado no frontEnd, mas longe de ser especialidade
 
 Entusiasta a GameDev como todo bom Dev nerd
 
