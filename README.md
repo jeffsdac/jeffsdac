@@ -1,6 +1,6 @@
-Backend dev
+Backend dev, focado em Java
 
-Alfabetizado no frontEnd, mas longe de ser especialidade
+Sei um pouco de front, mas não é meu ponto mais forte
 
 Entusiasta a GameDev como todo bom Dev nerd
 
