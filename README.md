@@ -4,6 +4,8 @@ Sei um pouco de front, mas não é meu ponto mais forte
 
 Entusiasta a GameDev como todo bom Dev nerd
 
+Atualmente desenvolvendo o projeto deck cards.
+
 <!--
 **jeffsdac/jeffsdac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
