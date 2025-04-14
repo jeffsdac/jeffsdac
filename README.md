@@ -1,10 +1,6 @@
-Backend dev, focado em Java
+Junior Software developer
 
-Sei um pouco de front, mas não é meu ponto mais forte
-
-Entusiasta a GameDev como todo bom Dev nerd
-
-Atualmente desenvolvendo o projeto deck cards.
+My conforts stacks are: React and Django
 
 <!--
 **jeffsdac/jeffsdac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
