@@ -1,6 +1,6 @@
 Junior Software developer
 
-My conforts stacks are: React and Django
+My conforts stacks are: React and Springboot
 
 <!--
 **jeffsdac/jeffsdac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
